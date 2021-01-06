@@ -1,0 +1,27 @@
+.issues{
+    padding: 2%;
+}
+
+.issueHeader{
+    display: flex;
+    flex-direction: row;
+    width:80%;
+    margin:0% 10%;
+    padding: 2.5% 0%;
+}
+
+.listItem {
+    display: flex;
+    border:"ridge";
+    flex-direction:"column";
+    align-items: "flex-start";
+}
+
+.filteringTextbox {
+    padding: 2%;
+    width: 15%;
+}
+
+.laptopViewFiltering {
+    
+}
